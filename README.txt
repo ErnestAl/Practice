@@ -1,11 +1,11 @@
 Сторонние библиотеки:
-    numpy scipy.io scipy.signal chardet ntlk silero
+    numpy scipy.io scipy.signal chardet ntlk silero piper-tts
 
 ------------------------------------------------
 audio_effects.py - библиотека для обработки аудио файлов
-augment_wav_parallel.py - аугментация аудто файлов с возможность параллелилизации
+augment_wav_parallel.py - аугментация аудио файлов с возможность параллелилизации
 create_input_texts.py - создание отдельных текстовых файлов из исходного длинного текста
-create_wav_from_text.py - озвучивание текстового файла при помощи Silero Model v5
+create_wav_from_text.py - озвучивание текстового файла
 process_audio.py - обработка аудио файлов с использованием библиотеки audio_effects.py
 
 ------------------------------------------------
