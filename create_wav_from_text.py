@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 tts_pipeline.py
 Единый скрипт для озвучки текстовых файлов через Silero или Piper TTS.
