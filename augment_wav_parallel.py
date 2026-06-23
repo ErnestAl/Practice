@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 augment_wav_parallel.py
 Параллельная аугментация WAV-файлов с помощью soundstretch (SoundTouch).
